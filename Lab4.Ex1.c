@@ -1,6 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
-#include <cstdio>
-#include <cmath>
+#include <stdio.h>
+#include <math.h>
 #include <clocale>
 int main() {
     setlocale(LC_ALL, "Ukrainian");
